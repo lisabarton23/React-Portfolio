@@ -3,10 +3,11 @@ import React from 'react';
 const Project =()=>{
     return(
         <div>
-            Project
+<h1 id ="work">Work</h1>
         </div>
         
     );
+
 
 
 }
