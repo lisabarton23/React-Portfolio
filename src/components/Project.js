@@ -28,7 +28,7 @@ const Project =()=>{
               </div>
               <div className="card-body">
                 <a href="https://lisabarton23.github.io/Day-Planner/" class="card-link">GitHub Link</a>
-                <a href ="#" class ="card-link">Deployed Link</a> 
+                <a href ="https://lisabarton23.github.io/Day-Planner/" class ="card-link">Deployed Link</a> 
             </div>
             </div>
           </div>
@@ -42,7 +42,7 @@ const Project =()=>{
               </div>
               <div className="card-body">
                 <a href="https://rgeisreiter.github.io/FoodTruckLocator/" class="card-link">GitHub Link</a>
-                <a href ="#" class ="card-link">Deployed Link</a>
+                <a href ="https://rgeisreiter.github.io/FoodTruckLocator/" class ="card-link">Deployed Link</a>
             </div>
           </div>
         </div>
