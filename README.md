@@ -10,4 +10,4 @@
 To visit the delpolyed version of my portfolio please use the link below to GitHub Pages:
 ``
     [GitHub Pages](https://lisabarton23.github.io/react-portfolio/)
-    ![Portfolio] (assets/images/reactportfolip.PNG)
+    ![Portfolio](assets/images/reactportfolio.PNG)
